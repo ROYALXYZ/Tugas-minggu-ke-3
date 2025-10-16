@@ -3,7 +3,6 @@
 using namespace std;
 
 
-
 //rumus konversi celcius ke reamur = 4/5 * c
 
 //rumus konversi celcius ke fahrenheit (c * 9/5) + 32
@@ -29,6 +28,12 @@ cout << " Konversi\n";
 cout << " Reamur = " << rumusReamur << char(248) << "R" << endl;
 
 cout << " Fahrenheit = " << rumusFahrenheit << char(248) << "F" << endl;
+
+
+
+
+
+
 
     system("PAUSE");
 
