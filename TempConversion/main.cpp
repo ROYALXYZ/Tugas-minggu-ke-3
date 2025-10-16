@@ -29,12 +29,6 @@ cout << " Reamur = " << rumusReamur << char(248) << "R" << endl;
 
 cout << " Fahrenheit = " << rumusFahrenheit << char(248) << "F" << endl;
 
-
-
-
-
-
-
     system("PAUSE");
 
 return 0;
